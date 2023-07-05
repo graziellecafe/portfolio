@@ -17,7 +17,6 @@ const LeftBanner = () => {
         <h4 className=" text-lg font-normal">WELCOME</h4>
         <h1 className="text-6xl font-bold text-white">
           Hi, I'm <span className="text-designColor capitalize">Grazielle Café</span> 
-          <img src={logo} alt="logo"/>
         </h1>
         <h2 className="text-6xl font-bold text-white">
           a <span>{text}</span>
