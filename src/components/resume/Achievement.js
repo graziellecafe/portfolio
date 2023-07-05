@@ -19,31 +19,36 @@ const Achievement = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Completion of course work."
+            title="TCC: Finished Undergratuate Course - Eletrical Engineering."
             subTitle="10/10."
             result="Success"
             des="It was research on the area of decouplers and control techniques for mining."
           />
-          <ResumeCard
-            title="Scientific research."
-            result="Success"
-            des="Scientific Initiation with the theme: ''Analysis of the Efficiency of Decouplers and Design Techniques of PI SISO Controllers for Milling Processes'"
-          />
-          <ResumeCard
-            title=" Student Assistance Director - Academic Directory Integra D.A."
-            result="Success"
-            des="Responsible for the good relationship between students - teachers and university. Responsible for nominating new student representatives for departments and collegiate bodies, publicizing internship - trainee - jobs and courses to help students develop in the job market, creating cultural projects involving the entire academic community and managing social networks."
-          />
            <ResumeCard
-            title="Sales - Fundação Estudar"
+            title="Advanced Javascript"
             result="Success"
-            des="Together with other volunteers, we sought to bring the first edition of the Leadership in Practice course to the city of João Monlevade. Research, sale, partnerships and organization.."
-          />          
-          <ResumeCard
-          title="Counselor"
-          result="Success"
-          des="English language immersion program through weekly meetings that provided participants with knowledge of how to be a counselor at YMCA's of summer camps in the USA.."
-        />         
+            des="Alura"
+          />       
+            <ResumeCard
+            title="Software testing"
+            result="Success"
+            des="Universidade Federal de Minas Gerais - UFMG"
+          />      
+            <ResumeCard
+            title="React: typing with Typescript "
+            result="Success"
+            des="Alura"
+          />  
+            <ResumeCard
+            title="React: learning the library"
+            result="Success"
+            des="Alura"
+          />    
+            <ResumeCard
+            title="Bootcamp UX Design"
+            result="Success"
+            des="How Bootcamps"
+          />   
         </div>
       </div>
     </motion.div>

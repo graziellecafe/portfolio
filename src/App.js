@@ -3,6 +3,8 @@ import Features from "./components/features/Features";
 import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
+import Contact from "./components/contact/Contact";
+
 
 function App() {
   return (
@@ -13,6 +15,7 @@ function App() {
         <Features />
         <Projects />
         <Resume/>
+        <Contact/>
 
       </div>
     </div>
