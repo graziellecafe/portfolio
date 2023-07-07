@@ -10,7 +10,7 @@ const Media = () => {
     <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
         <div>
           <h2 className="text-2xl uppercase font-titleFont mb-4">
-            Find me in
+            MEET ME AT 
           </h2>
           <div className="flex gap-6 h-60 w-60">
           <a href="https://www.linkedin.com/in/graziellecafe/" className="bannerIcon" >

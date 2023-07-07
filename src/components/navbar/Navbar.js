@@ -72,7 +72,7 @@ const Navbar = () => {
               </ul>
               <div className="flex flex-col gap-4">
                 <h2 className="text-base uppercase font-titleFont mb-4">
-                  Find me in
+                  Meet me at
                 </h2>
                 <div className="flex gap-4">
                   <span className="bannerIcon">
